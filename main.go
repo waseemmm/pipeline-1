@@ -6,7 +6,7 @@ var version = "dev"
 
 func main() {
 
-	fmt.Printf("Version: %s\n", version)
+	fmt.Printf("Version1: %s\n", version)
 
 	fmt.Println(hello())
 }
